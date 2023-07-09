@@ -29,10 +29,5 @@ npm i
 npm start
 ```
 
-## Coming Soon
-- XSS Payload 2023
-- Dork list 2023
-- Another payload 2023
-
 ## Credit 
 - This theme original by <a href="https://0l1v3rr.github.io/" target="_blank">0l1v3rr</a>
