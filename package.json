@@ -2,7 +2,7 @@
   "name": "zake1god.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zake1god.github.io",
+  "homepage": "https://zake1god.github.io/public",
   "dependencies": {
     "@types/node": "^16.18.6",
     "@types/react": "^18.0.26",
