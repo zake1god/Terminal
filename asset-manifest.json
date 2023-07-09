@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59ebb62f.css",
+    "main.js": "/static/js/main.879e43c3.js",
+    "static/media/kali-layers.png": "/static/media/kali-layers.93cc5f44d84f31ea69f6.png",
+    "index.html": "/index.html",
+    "main.59ebb62f.css.map": "/static/css/main.59ebb62f.css.map",
+    "main.879e43c3.js.map": "/static/js/main.879e43c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ebb62f.css",
+    "static/js/main.879e43c3.js"
+  ]
+}
